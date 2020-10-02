@@ -17,7 +17,7 @@ description: "Integrate your Moes BHT-002-GCLZB via Zigbee2MQTT with whatever sm
 
 ## Notes
 
-None
+Pair by holding the up arrow for few seconds while the thermostat if off.
 
 ## Manual Home Assistant configuration
 Although Home Assistant integration through [MQTT discovery](../integration/home_assistant) is preferred,
